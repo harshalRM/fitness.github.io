@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: url(Gym/images/gym5.jpg);
+    background-size: cover;
+    background-position: center;
+}
